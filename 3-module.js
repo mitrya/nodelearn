@@ -1,0 +1,10 @@
+const name_val=require ('./2-global')
+const fun = require ('./5-util')
+const per= require ('./6-alternative-flavour')
+const callr =require('./7-mind-grenade')
+console.log(per)
+fun.sayHi(name_val.aman);
+// console.log(`${}`)
+// sayHi(name_val.aman)
+// sayHi('Utkarsh')
+//cxleconsole.log(module)
